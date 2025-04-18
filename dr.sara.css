@@ -1,0 +1,40 @@
+/* #a{
+    background-color: rgb(0, 174, 255);
+    border-radius: 20px;
+    transition: 2s;
+}
+#b{
+   background-color: red;
+   transition: 3s;
+   
+}
+#c{
+    background-color: green;
+    transition: 3s;
+}
+#e{
+    background-color: chartreuse;
+}
+#n{
+    color: blue;
+}
+#m{
+    color: #209797;
+}
+#p{
+    color: blueviolet;
+}
+#h{
+    color: #1a6d13;
+}
+#a:hover{
+    background-color: blue;
+}
+#b:hover{
+    border-radius: 20px;
+    background-color: blueviolet;
+}
+#c:hover{
+    border-radius: 20px;
+    background-color: hsl(244, 67%, 44%);
+} */
